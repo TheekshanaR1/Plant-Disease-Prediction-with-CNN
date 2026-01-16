@@ -1,2 +1,7 @@
-# Plant-Disease-Prediction-with-CNN
-This project implements a Plant Disease Prediction System using Convolutional Neural Networks (CNNs) to automatically classify plant leaf images into healthy or diseased categories. The model learns visual patterns such as color variations, texture, and shape from leaf images to accurately identify plant diseases.
+# plant-disease-prediction-cnn-deep-leanring-project
+This repository is about building an Image classifier CNN with Python on Plant Disease Prediction.
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+
+Trained Model Link: [[https://drive.google.com/file/d/1i466c4XOs048Q54EPCqgzoG8zWcARnrj/view?usp=sharing](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=sharing)](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
+
